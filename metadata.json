@@ -1,0 +1,5 @@
+{
+  "name": "FORGE CRM",
+  "description": "Módulo de gestão de metas financeiras (Budget) com visão hierárquica por cliente e fornecedor, suporte a drill-down e controle de acesso por perfil.",
+  "requestFramePermissions": []
+}
